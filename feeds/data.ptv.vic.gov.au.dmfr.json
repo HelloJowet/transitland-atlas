@@ -61,7 +61,7 @@
       "authorization": {
         "type": "header",
         "param_name": "Ocp-Apim-Subscription-Key",
-        "info_url": "https://data-exchange.vicroads.vic.gov.au/docs/services/vehicle-position-trip-update-opendata/operations/metro-bus-trip-updates"
+        "info_url": "https://data-exchange.vicroads.vic.gov.au/signin"
       }
     },
     {
@@ -94,7 +94,7 @@
       "authorization": {
         "type": "header",
         "param_name": "Ocp-Apim-Subscription-Key",
-        "info_url": "https://data-exchange.vicroads.vic.gov.au/docs/services/vehicle-position-trip-update-opendata/operations/metro-bus-trip-updates"
+        "info_url": "https://data-exchange.vicroads.vic.gov.au/signin"
       }
     },
     {
